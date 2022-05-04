@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://antaresshao.github.io</id>
+    <title>Cozy Tomb of Death</title>
+    <updated>2022-05-04T11:16:55.249Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://antaresshao.github.io"/>
+    <link rel="self" href="https://antaresshao.github.io/atom.xml"/>
+    <subtitle>Ничего нельзя сказать человеку, которому улыбается смерть, ничего не скажешь ему такого, что возвратило бы в душу его любовь к жизни. 
+
+- Горький Максим</subtitle>
+    <logo>https://antaresshao.github.io/images/avatar.png</logo>
+    <icon>https://antaresshao.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Cozy Tomb of Death</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://antaresshao.github.io/post/hello-gridea/</id>
+        <link href="https://antaresshao.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></content>
+    </entry>
+</feed>
