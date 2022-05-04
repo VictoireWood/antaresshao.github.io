@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://e.coding.net/antaresshao/grideablog/antaresshao.github.io</id>
+    <id>https://antaresshao.github.io</id>
     <title>Cozy Tomb of Death</title>
-    <updated>2022-05-04T16:59:36.323Z</updated>
+    <updated>2022-05-04T17:00:52.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://e.coding.net/antaresshao/grideablog/antaresshao.github.io"/>
-    <link rel="self" href="https://e.coding.net/antaresshao/grideablog/antaresshao.github.io/atom.xml"/>
+    <link rel="alternate" href="https://antaresshao.github.io"/>
+    <link rel="self" href="https://antaresshao.github.io/atom.xml"/>
     <subtitle>Ничего нельзя сказать человеку, которому улыбается смерть, ничего не скажешь ему такого, что возвратило бы в душу его любовь к жизни. 
 
 - Горький Максим</subtitle>
-    <logo>https://e.coding.net/antaresshao/grideablog/antaresshao.github.io/images/avatar.png</logo>
-    <icon>https://e.coding.net/antaresshao/grideablog/antaresshao.github.io/favicon.ico</icon>
+    <logo>https://antaresshao.github.io/images/avatar.png</logo>
+    <icon>https://antaresshao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Cozy Tomb of Death</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://e.coding.net/antaresshao/grideablog/antaresshao.github.io/post/hello-gridea/</id>
-        <link href="https://e.coding.net/antaresshao/grideablog/antaresshao.github.io/post/hello-gridea/">
+        <id>https://antaresshao.github.io/post/hello-gridea/</id>
+        <link href="https://antaresshao.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
