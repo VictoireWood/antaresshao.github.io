@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://antaresshao.github.io</id>
     <title>Cozy Tomb of Death</title>
-    <updated>2022-05-04T17:25:02.370Z</updated>
+    <updated>2022-05-04T17:51:23.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://antaresshao.github.io"/>
     <link rel="self" href="https://antaresshao.github.io/atom.xml"/>
@@ -12,6 +12,21 @@
     <logo>https://antaresshao.github.io/images/avatar.png</logo>
     <icon>https://antaresshao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Cozy Tomb of Death</rights>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://antaresshao.github.io/post/about/</id>
+        <link href="https://antaresshao.github.io/post/about/">
+        </link>
+        <updated>2022-05-04T17:07:50.000Z</updated>
+        <summary type="html"><![CDATA[<p>关于这个网站🖥️，<br>
+关于网站的建立者🏳️‍🌈，<br>
+关于如何死去☠️……</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>关于这个网站🖥️，<br>
+关于网站的建立者🏳️‍🌈，<br>
+关于如何死去☠️……</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://antaresshao.github.io/post/hello-gridea/</id>
